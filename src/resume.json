@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Iván Cáceres",
+    "label": "Full-Stack developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "ivansfy@gmail.com",
+    "phone": "+595985435047",
+    "website": "http://blog.icaceres.com",
+    "summary": "Software development in different programming languages and frameworks for 4 years. Passionate about linux server management, artificial intelligence, algorithms, data science and mobile application development. In my free time I devote myself to researching booming languages and tools that could improve my computer programming skills.",
+    "location": {
+      "address": "Paraguay",
+      "postalCode": "7000",
+      "city": "Ciudad del Este",
+      "countryCode": "PY",
+      "region": "Alto Paraná"
+    },
+    "profiles": [
+      {
+        "network": "keybase",
+        "username": "ivanarielcaceres",
+        "url": "https://keybase.io/ivanarielcaceres"
+      },
+      {
+        "network": "Github",
+        "username": "ivanarielcaceres",
+        "url": "https://github.com/ivanarielcaceres"
+      },
+      {
+        "network": "linkedIn",
+        "username": "Iván Cáceres",
+        "url": "https://www.linkedin.com/in/iv%C3%A1n-c%C3%A1ceres-7704b687/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Monalisa S.A",
+      "position": "BI Analyst",
+      "website": "https://www.monalisa.com.py",
+      "startDate": "2014-02-01",
+      "endDate": "2015-10-01",
+      "summary": "Implementation of new features in Compiere ERP. Reports and dashboards development in Pentaho using complex query in oracle.",
+      "highlights": []
+    },
+    {
+      "company": "Excelsis S.A.C.I.G",
+      "position": "Software developer",
+      "website": "",
+      "startDate": "2015-10-02",
+      "endDate": "",
+      "summary": "Consultant at Itaipu Dam",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Católica Ntra. Sra. de Asunción",
+      "area": "System Analysis",
+      "studyType": "",
+      "startDate": "2011-03-01",
+      "endDate": "2016-12-01",
+      "gpa": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Full-Stack developer",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "Linux",
+        "CSS",
+        "Javascript",
+        "ES6",
+        "jQuery",
+        "GraphJs",
+        "React",
+        "React native",
+        "Angular 2",
+        "Ionic 2",
+        "Material ui",
+        "Node",
+        "Python",
+        "Sci-Kit learn",
+        "Pandas",
+        "Tableau",
+        "Pentaho",
+        "MySQL",
+        "Oracle",
+        "Jira",
+        "Confluence",
+        "Bamboo",
+        "Mongo DB"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Idioma nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio"
+    },
+    {
+      "language": "Portugués",
+      "fluency": "Intermedio"
+    },
+    {
+      "language": "Guaraní",
+      "fluency": "Básico"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musica y Arte",
+      "keywords": []
+    },
+    {
+      "name": "Ciencia y tecnología",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
